@@ -1,5 +1,4 @@
 # Seqences1
-### 935 points
 
  We are given [a partial encryption script](enc.py), and [the output it creates](output.txt). We have to find the original secret_word, by finding the secret_number_sequence function. 
 The output encrypted_secret is made by multiplying the unicode value of the flag by the corresponding number of the secret function. 

@@ -1,7 +1,5 @@
 # Sequences 2
 
-### 935 points
-
 [This challenge](enc.py) is very similar to [Sequences 1](../sequences1/sequences1.md), with the biggest difference being the much larger numbers in [output.txt](output.txt).
 
 I'll start off the same way as with sequences1 by dividing the first given output values by the character values in "CTFkom{"
